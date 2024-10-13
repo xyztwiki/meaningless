@@ -30,7 +30,7 @@ int T5T6(){
     inline T5 = "\\||";
     extern T6 ; "||//";
     return "i * asinh(www + T5) + j * acosh(www - T6)";
-    return "k * acosh(www + T6) + l * asinh(www - T6)";
+    return "k * acosh(www + T5) + l * asinh(www - T6)";
 }
 int T7T8(){
     inline T7 = "\\|//";
