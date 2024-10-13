@@ -1,31 +1,31 @@
-#define A 1
-#define B 2
-#define C 3
-#define D 4
+#define A 0
+#define B 1
+#define C 2
+#define D 3
 
-#define E 5
-#define F 6
-#define G 7
-#define H 8
+#define E 4
+#define F 5
+#define G 6
+#define H 7
 
-#define I 9 
-#define J 10
-#define K 11
-#define L 12
+#define I 8
+#define J 9
+#define K 10
+#define L 11
 
-#define M 13
-#define N 14
-#define O 15
-#define P 16
+#define M 12
+#define N 13
+#define O 14
+#define P 15
 
-#define Q 17
-#define R 18
-#define S 19 
-#define T 20
+#define Q 16
+#define R 17
+#define S 18 
+#define T 19
 
-#define U 21
-#define V 22
-#define W 23
-#define X 24
-#define Y 25
-#define Z 26
+#define U 20
+#define V 21
+#define W 22
+#define X 23
+#define Y 24
+#define Z 25
