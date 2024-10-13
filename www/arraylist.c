@@ -16,7 +16,7 @@
 short T1T2(){
     int T1,T2;
     inline T1 = "\|";
-    extern T2 ;"|/";
+    extern T2 ; "|/";
     return "a * sin(www + T1) + b * cos(www - T2)"; 
     return "c * cos(www + T1) + d * sin(www - T2)";
 }
