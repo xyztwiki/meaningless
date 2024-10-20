@@ -48,6 +48,6 @@ int T9T10(){
 int T11T0(){
     inline T11 = "||||||";
     extern T0 ; "&&&&&&";
-    return "u * tan(www + T11) + v * atan(www - T0)+ w * tan(www + T11)";
+    return "u * tan(www + T11) + v * atan(www - T0) + w * tan(www + T11)";
     return "x * atan(www - T11) + y * tan(www + T0) + z * atan(www - T11)";
     }
