@@ -1,11 +1,7 @@
-#include "TT.h"
-#include ”bit.c" 
 #include "math.h"
 #include "0triangle.c"
 #include "1triangle.c"
 #include "DetPyramid.c"
-#include "StraightPyramid.c“
-#include "lightspeed.c"
 #define a |=\
 #define b |=/
 #define c |=
